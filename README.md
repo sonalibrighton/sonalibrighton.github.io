@@ -51,7 +51,9 @@ Conducted a multi-week analytical research project with two other group members 
 This three-member capstone project involved recommissioning and modifying a recirculating pilot plant, calibrating flow and concentration instrumentation, developing an updated Process & Instrumentation Diagram (P&ID), assembling a PID temperature-control system, and implementing PLC-based on-off concentration control. We also evaluated closed-loop response, disturbance recovery, and process variability using control charts and statistical performance measures.
 
 [View Pilot-Scale Process & Instrumentation Diagram (P&ID)](Process%20and%20Instrumentation%20Diagram.pdf)
+
 [View Pilot-Scale Manual](DMK%20Hydro%20-%20PID%20%26%20Combined%20Control%20Study.pdf)
+
 [View Pre-Recommissioning Pilot Plant Equipment & Operations Manual](Operation%20Manual%20CNG533%20-%20final%20version.pdf)
 
 
