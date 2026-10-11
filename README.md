@@ -58,4 +58,4 @@ Recommissioned and modified a recirculating pilot plant, calibrated flow and con
 **Image of Pilot-Scale:**
 
 ![Pilot-Scale Plant](IMG_1325.jpeg)
-<img src="Process_and_Instrumentation_Diagram.png" width="400">
+<img src="IMG_1325.jpeg" width="400">
