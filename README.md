@@ -29,7 +29,7 @@ ICP, HPLC, Colorimetry, Conductivity, Sample Preparation
 
 **Current Focus:**  
 
-The capstone project is currently in the preliminary design phase, with a focus on selecting appropriate unit operations, researching separation efficiencies, and developing an initial Aspen Plus model. The group has also begun conducting material and energy balances based on a comparable industrial processing capacity.
+This capstone project consists for five members. It is currently in the preliminary design phase, with a focus on selecting appropriate unit operations, researching separation efficiencies, and developing an initial Aspen Plus model. The group has also begun conducting material and energy balances based on a comparable industrial processing capacity.
 
 **Block Flow Diagram**
 
@@ -39,7 +39,7 @@ The capstone project is currently in the preliminary design phase, with a focus 
 
 **Focus:** 
 
-Conducted a multi-week analytical research project evaluating trace metals and volatile organic compounds (VOCs) in commercially available water-based latex paint. Prepared and analyzed samples using ICP-OES for elemental analysis and gas chromatography for VOC characterization, while developing calibration methods and evaluating analytical performance. The study also compared green-certified and non-green-certified paint products to investigate differences in potentially hazardous constituents.
+Conducted a multi-week analytical research project evaluating trace metals and volatile organic compounds (VOCs) in commercially available water-based latex paint with myself and two other group members. Prepared and analyzed samples using ICP-OES for elemental analysis and gas chromatography for VOC characterization, while developing calibration methods and evaluating analytical performance. The study also compared green-certified and non-green-certified paint products to investigate differences in potentially hazardous constituents.
 
  **Poster:**
 
