@@ -25,6 +25,7 @@ ICP-OES, HPLC, Colorimetry, Conductivity, Sample Preparation
 - Lakehead University, B.Eng. Chemical Engineering
 - Seneca Polytechnic, Chemical Engineering Advanced Diploma
 
+
 ## Project: Design of a Hydrometallurgical Process for Critical Material Recovery from Black Mass
 
 **Current Focus:**  
@@ -34,6 +35,7 @@ This five-member capstone project is currently in the preliminary design phase, 
 **Block Flow Diagram**
 
 <img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="700">
+
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
@@ -45,11 +47,12 @@ Conducted a multi-week analytical research project with two other group members 
 
 [View Project Poster](TCA%20Heavy%20Metal%20&%20VOC%20Analysis%20Poster.pdf)
 
+
 ## Project: Pilot-Scale Process Control and Instrumentation Project
 
  **Focus:** 
 
-Recommissioned and modified a recirculating pilot plant, calibrated flow and concentration instrumentation, developed an updated Process & Instrumentation Diagram (P&ID), assembled a PID temperature-control system, and implemented PLC-based on-off concentration control. Evaluated closed-loop response, disturbance recovery, and process variability using control charts and statistical performance measures.
+This three-member capstone project involved recommissioning and modifying a recirculating pilot plant, calibrating flow and concentration instrumentation, developing an updated Process & Instrumentation Diagram (P&ID), assembling a PID temperature-control system, and implementing PLC-based on-off concentration control. We also evaluated closed-loop response, disturbance recovery, and process variability using control charts and statistical performance measures.
 
 [View Pilot-Scale Process & Instrumentation Diagram (P&ID)](Process%20and%20Instrumentation%20Diagram.pdf)
 
