@@ -1,6 +1,6 @@
 # Sonali Brighton <img src="FEFC717D-F3B9-4AA4-8F18-C43FD751BFC3.jpg" width="180" align="right">
 
-Chemical Engineering student at Lakehead University with interests in process engineering, manufacturing, process design, quality, and continuous improvement.
+Chemical Engineering student at Lakehead University with interests in process engineering, manufacturing, process design, quality, automation engineering, and continuous improvement.
 
 ## Experience
 - Process Engineering Intern, TTM Technologies
