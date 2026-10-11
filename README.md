@@ -33,7 +33,7 @@ This capstone project consists for five members. It is currently in the prelimin
 
 **Block Flow Diagram**
 
-<img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="400">
+<img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="700">
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
