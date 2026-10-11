@@ -62,7 +62,3 @@ This three-member capstone project involved recommissioning and modifying a reci
 Supported the qualification and implementation of an automated Laser Direct Imaging workflow within a PCB manufacturing environment. The project involved coordinating equipment integration with technical teams, conducting production qualification testing across multiple material configurations, supporting troubleshooting and system setup, and developing operator procedures and training. The implementation focused on reducing operator intervention, standardizing panel handling and cleaning, improving equipment utilization, and supporting improvements in throughput, yield, and manufacturing consistency.
 
 [View Redacted LDI Automation Portfolio PDF](LDI_Automation_Portfolio_Redacted.pdf)
-
-<p align="center">
-  <img src="FEFC717D-F3B9-4AA4-8F18-C43FD751BFC3.jpg" width="500">
-</p>
