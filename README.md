@@ -41,8 +41,6 @@ This five-member capstone project is currently in the preliminary design phase, 
 
 Conducted a multi-week analytical research project with two other group members to evaluate trace metals and volatile organic compounds (VOCs) in commercially available water-based latex paint. Prepared and analyzed samples using ICP-OES for elemental analysis and gas chromatography for VOC characterization, while developing calibration methods and evaluating analytical performance. The study also compared green-certified and non-green-certified paint products to investigate differences in potentially hazardous constituents.
 
- **Poster:**
-
 [View Project Poster](TCA%20Heavy%20Metal%20&%20VOC%20Analysis%20Poster.pdf)
 
 
