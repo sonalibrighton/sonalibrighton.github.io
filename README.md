@@ -33,7 +33,7 @@ This capstone project consists for five members. It is currently in the prelimin
 
 **Block Flow Diagram**
 
-![Hydrometallurgical Process Design](Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png)
+<img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="400">
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
@@ -54,7 +54,5 @@ Recommissioned and modified a recirculating pilot plant, calibrated flow and con
   **P&ID:**
 
 [View Pilot-Scale P&ID](Process%20and%20Instrumentation%20Diagram.pdf)
-
-**Image of Pilot-Scale:**
 
 <img src="IMG_1325.jpeg" width="400">
