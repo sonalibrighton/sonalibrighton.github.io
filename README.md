@@ -28,6 +28,7 @@ ICP, HPLC, Colorimetry, Conductivity, Sample Preparation
 ## Project: Design of a Hydrometallurgical Process for Critical Material Recovery from Black Mass
 
 **Current Focus:**  
+
 The capstone project is currently in the preliminary design phase, with a focus on selecting appropriate unit operations, researching separation efficiencies, and developing an initial Aspen Plus model. The group has also begun conducting material and energy balances based on a comparable industrial processing capacity.
 
 **Block Flow Diagram**
@@ -47,6 +48,7 @@ Conducted a multi-week analytical research project evaluating trace metals and v
 ## Project: Pilot-Scale Process Control and Instrumentation Project
 
  **Focus:** 
+
 Recommissioned and modified a recirculating pilot plant, calibrated flow and concentration instrumentation, developed an updated P&ID, assembled a PID temperature-control system, and implemented PLC-based on-off concentration control. Evaluated closed-loop response, disturbance recovery, and process variability using control charts and statistical performance measures.
 
   **P&ID:**
