@@ -32,8 +32,6 @@ ICP-OES, HPLC, Colorimetry, Conductivity, Sample Preparation
 
 This five-member capstone project is currently in the preliminary design phase, with a focus on selecting appropriate unit operations, researching separation efficiencies, and developing an initial Aspen Plus model. The group has also begun conducting material and energy balances based on a comparable industrial processing capacity.
 
-**Block Flow Diagram**
-
 <img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="700">
 
 
