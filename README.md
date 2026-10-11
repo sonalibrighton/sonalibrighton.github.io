@@ -1,5 +1,7 @@
 # Sonali Brighton
 
+<img src="FEFC717D-F3B9-4AA4-8F18-C43FD751BFC3.jpg" width="220" align="right">
+
 Chemical Engineering student at Lakehead University with interests in process engineering, manufacturing, process design, quality, and continuous improvement.
 
 ## Experience
