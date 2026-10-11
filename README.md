@@ -42,3 +42,4 @@ ICP, HPLC, Colorimetry, Conductivity, Sample Preparation
   **P&ID**
 
 [View Pilot-Scale P&ID](Process%20and%20Instrumentation%20Diagram.pdf)
+![Pilot-Scale Plant](IMG_1325.jpeg)
