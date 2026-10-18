@@ -34,7 +34,7 @@ This five-member capstone project is currently in the preliminary design phase, 
 
 **Key Contributions:**
 
-I personally created and edited the project process flow diagram (PFD) to reflect the selected unit operations and overall process configuration and researched heavily into the solid-liquid separations as well as drying units.
+I personally created and edited the project process flow diagram (PFD) to reflect the selected unit operations and overall process configuration and researched heavily into the solid-liquid separations as well as drying units using AutoCAD.
 
 <img src="Screenshot%202026-10-18%20190513.png" width="900">
 
