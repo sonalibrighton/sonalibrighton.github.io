@@ -65,6 +65,25 @@ This three-member capstone project involved recommissioning and modifying a reci
 
 **Focus:**
 
-Supported the qualification and implementation of an automated Laser Direct Imaging workflow within a PCB manufacturing environment. The project involved coordinating equipment integration with technical teams, conducting production qualification testing across multiple material configurations, supporting troubleshooting and system setup, and developing operator procedures and training. The implementation focused on reducing operator intervention, standardizing panel handling and cleaning, improving equipment utilization, and supporting improvements in throughput, yield, and manufacturing consistency.
+During my Process Engineering internship at TTM Technologies, I supported the qualification and implementation of an automated Laser Direct Imaging (LDI) workflow used for PCB core processing.
 
-[View Redacted LDI Automation Portfolio PDF](LDI_Automation_Portfolio_Redacted.pdf)
+My individual contributions included coordinating equipment integration and troubleshooting with internal technical teams and equipment vendors, supporting system setup and configuration, and carrying out production qualification testing across multiple process and material conditions.
+
+I personally performed qualification work on both the imaging equipment and the automated material-handling system. This included verifying imaging performance, evaluating target recognition and process conditions, and confirming that the automation system could reliably handle the required range of production materials.
+
+I also supported live production trials and reviewed manufacturing performance data to evaluate the implementation. This included monitoring measures such as first-pass yield, throughput, equipment utilization, and defect trends to identify issues and assess process performance.
+
+As part of the implementation, I developed and updated standard operating procedures (SOPs), qualification documentation, and operator guidance. I also helped train production operators on the automated workflow, equipment operation, and troubleshooting procedures.
+
+The project required ongoing coordination with maintenance, engineering, equipment vendors, and production personnel to resolve integration issues and support the transition from a more manual imaging process to an automated workflow.
+
+**Key Contributions:**
+
+- Worked cross-functionally with engineering, maintenance, production, and vendor technical teams during implementation.
+- Coordinated equipment integration and troubleshooting with internal teams and equipment vendors.
+- Performed qualification testing on the LDI imaging system and automated material-handling equipment.
+- Evaluated imaging performance, process conditions, target recognition, and material-handling capability.
+- Supported live production trials and reviewed yield, throughput, equipment-utilization, and defect data.
+- Assisted with troubleshooting system configuration and equipment-integration issues.
+- Developed SOPs, qualification documentation, and operator procedures.
+- Supported operator training for the new automated process.
