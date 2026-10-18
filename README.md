@@ -32,8 +32,9 @@ ICP-OES, HPLC, Colorimetry, Conductivity, Sample Preparation
 
 This five-member capstone project is currently in the preliminary design phase, with a focus on selecting appropriate unit operations, researching separation efficiencies, and developing an initial Aspen Plus model. The group has also begun conducting material and energy balances based on a comparable industrial processing capacity.
 
-<img src="Block_Flow_Diagram_Hydrometallurgical_Process_Design_2.png" width="700">
+I personally created and edited the project process flow diagram (PFD) to reflect the selected unit operations and overall process configuration.
 
+<img src="Screenshot%202026-10-18%20190513.png" width="900">
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
