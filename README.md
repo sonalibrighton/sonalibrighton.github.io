@@ -36,7 +36,9 @@ This five-member capstone project is currently in the preliminary design phase, 
 
 I personally created and edited the project process flow diagram (PFD), using AutoCAD, to reflect the selected unit operations and overall process configuration and researched heavily into the solid-liquid separations as well as drying units.
 
-<img src="Screenshot%202026-10-24%20232234.png" width="700">
+<p align="center">
+  <img src="Screenshot%202026-10-24%20232234.png" width="700">
+</p>
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
