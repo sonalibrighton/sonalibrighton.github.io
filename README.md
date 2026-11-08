@@ -34,11 +34,15 @@ This five-member capstone project is currently in the preliminary design phase, 
 
 **Key Contributions:**
 
-I personally created and edited the project process flow diagram (PFD), using AutoCAD, to reflect the selected unit operations and overall process configuration and researched heavily into the solid-liquid separations as well as drying units.
+I personally created the project process flow diagram (PFD) using AutoCAD, as well as edited the attached preliminary report to reflect the selected unit operations and overall process configuration and researched heavily into the solid-liquid separations as well as drying units.
 
 <p align="center">
-  <img src="Screenshot%202026-10-24%20232234.png" width="700">
+  <img src="V3_Process_Flow_Diagram_Hydrometallurgical_Process_Design.png" width="1100">
 </p>
+
+**Project Report:**
+
+[View Degree Project Report](Report%20-%20ECHE%204969%20Degree%20Project.pdf)
 
 ## Project: Trace Metal and VOC Analysis of Latex Paint
 
